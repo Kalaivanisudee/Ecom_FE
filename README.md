@@ -6,6 +6,11 @@
 
 https://mern-e-com-app.netlify.app/
 
+
+## Demo video link
+
+https://github.com/user-attachments/assets/684f2c9a-add0-4293-ac9d-6c5b330586df
+
 ## Overview
 
 The ECommerce Landing Page allows users to:
