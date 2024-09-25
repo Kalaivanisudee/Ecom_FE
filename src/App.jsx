@@ -18,7 +18,7 @@ const App = () => {
   const fetchProducts = async () => {
     setLoading(true); 
     const query = `?search=${searchTerm}&category=${selectedCategory}`;
-    const res = await axios.get(`http://localhost:5000/api/products${query}`);
+    const res = await axios.get(`https://ecom-be-rpq6.onrender.com/api/products${query}`);
     setProducts(res.data);
     setLoading(false); 
   };
